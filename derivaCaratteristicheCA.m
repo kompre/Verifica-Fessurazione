@@ -1,4 +1,4 @@
-function [ tab ] = derivaCaratteristiche( f_ck, R_ck )
+function [ tab ] = derivaCaratteristicheCA( f_ck, R_ck )
 %DERIVACARATTERISTICHE Summary of this function goes here
 %   Detailed explanation goes here
 
